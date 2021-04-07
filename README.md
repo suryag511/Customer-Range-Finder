@@ -2,8 +2,7 @@
 InterCom Take home Test
 
 Hello Team this is a simple instruction of my code which i have done.
-
-You can download this code and import it to workspace like Eclipse IDE or Intellij
+I have used Java Spring Boot to develop this code and run the application in Postman API platform. You can download this code and import it to workspace like Eclipse IDE or Intellij
 
 1) Import the file in existing maven projects
 2) After importing try to update the mvn
